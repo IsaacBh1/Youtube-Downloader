@@ -1,5 +1,5 @@
 # Youtube-Downloader
-it is a small aplication that allows you to download a Youtube videos 
+it is a small desktop app that allows you to download a Youtube videos 
 
 installations : 
 Tkinter : pip istall pytk
